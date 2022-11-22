@@ -1,4 +1,4 @@
-![免责声明](./README-pic/免责声明.jpg)
+![免责声明](./00-README-pic/免责声明.jpg)
 
 
 
